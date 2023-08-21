@@ -12,7 +12,7 @@ use pocketmine\command\Command;
 use pocketmine\entity\Skin;
 use pocketmine\player\Player;
 use jojoe77777\FormAPI\SimpleForm;
-use GamerMJay\EasySkin\Main;
+use CSkinUI\Main;
 use pocketmine\plugin\PluginOwned;
 
 class SkinCommand extends Command implements PluginOwned {
@@ -20,8 +20,8 @@ class SkinCommand extends Command implements PluginOwned {
     private Main $plugin;
 
     public function __construct(Main $plugin) {
-        parent::__construct("easyskin", "Open the Skin menu", "/skin", ["skin"],);
-        $this->setPermission("easyskin.use");
+        parent::__construct("cskinui", "Open the Skin menu", "/skin", ["skin"],);
+        $this->setPermission("cskinui.use");
         $this->plugin = $plugin;
     }
 
