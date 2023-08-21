@@ -1,7 +1,7 @@
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/RuF5gxRNfQ)
 [![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
 https://github.com/GamerMJay/EasySkin/blob/main/LICENSE)
-# EasySkin - V1.2.0  
+# ChangeSkinUI - V1.2.0  
 
 ### Report Bug
 You've found a Bug?
@@ -13,7 +13,7 @@ You've found a Bug?
 |**Command**|**Description**|
 |-----------|---------------|
 |`/skin`|Open the Skin menu|
-
+|`/cskinui`|Open the Skin menu|
 
 ### Credits:
 Owner: [GamerMJay](https://github.com/GamerMJay)
