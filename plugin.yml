@@ -8,6 +8,6 @@ description: A PocketMine-MP Skin Plugin
 
 
 permissions:
- easyskin.use:
+ cskinui.use:
   default: op
   description: "Open the ChangeSkinUI menu"
