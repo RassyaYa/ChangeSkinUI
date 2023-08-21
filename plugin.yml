@@ -1,8 +1,8 @@
-name: EasySkin
+name: ChangeSkinUI
 main: GamerMJay\EasySkin\Main
-api: 4.0.0
-version: 1.1.0
-authors: [GamerMJay, GLX20]
+api: 5.0.0
+version: 1.2.0
+authors: [RassPocket, GamerMJay, GLX20]
 description: A PocketMine-MP Skin Plugin
 
 
@@ -10,4 +10,4 @@ description: A PocketMine-MP Skin Plugin
 permissions:
  easyskin.use:
   default: op
-  description: "Open the EasySkin menu"
+  description: "Open the ChangeSkinUI menu"
