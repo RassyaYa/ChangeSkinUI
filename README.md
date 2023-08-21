@@ -17,5 +17,6 @@ You've found a Bug?
 
 ### Credits:
 Owner: [GamerMJay](https://github.com/GamerMJay)
+Remake: [RassPocket](https://github.com/RassyaYa)
 
 Discord-Tag: `GamerMJay#6158`
