@@ -1,6 +1,6 @@
 <?php
 
-namespace GamerMJay\EasySkin;
+namespace CSkinUI;
 
 use Exception;
 use Himbeer\LibSkin\SkinConverter;
