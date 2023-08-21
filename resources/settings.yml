@@ -1,0 +1,26 @@
+### IMPORTANT ###
+# Please note if ur skin displayed incorrectly, you must change your geometry
+#
+# Edit the news here.
+messages:
+    skin-success: "You just took the skin {name}."
+    skin-reset: "You just reset your skin."
+    skin-not-exist: "This skin doesn't exist."
+    geo-change-slim: "You just change your geometry to slim."
+    geo-change-normal: "You just change your geometry to normal."
+    forms:
+        main-form:
+            title: "ChangeSkinUI"
+            description: "select your skin"
+            button-1: "Skin List"
+            button-2: "Reset skin"
+            button-3: "Change your geometry"
+        skin-list-form:
+            title: "ChangeSkinUI"
+            description: "Choose your skin."
+        choice-geo-form:
+            title: "ChangeSkinUI"
+            description: "Choose a geometry."
+            button-1: "Slim"
+            button-2: "Normal"
+...
